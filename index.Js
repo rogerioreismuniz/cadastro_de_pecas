@@ -2,11 +2,11 @@
 
 // Variáveis peças de carro.
 let carparts = [
-    {nome: "Retentor",peso:100},
-    {nome: "borracha",peso:50},
-    {nome: "ventosa",peso:80},
-    {nome: "bateria",peso:10000},
-    {nome: "WD",peso:100}
+    {nome: "filtro de ar",peso:120},
+    {nome: "junta do cabeçote",peso:70},
+    {nome: "radiador",peso:1500},
+    {nome: "motor",peso:10000},
+    {nome: "termostato",peso:100}
 ]
 // Validação de numero de itens.
 let intensnumber = carparts.length;
